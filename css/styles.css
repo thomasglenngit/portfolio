@@ -22,11 +22,15 @@ p {
 }
 
 div.columnA {
+  width: 320px;
   margin: 5px;
+  float: left;
 }
 
 div.columnB {
+  width: 500px;
   margin: 5px;
+  float: right;
 }
 
 
