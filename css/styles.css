@@ -71,7 +71,7 @@ div.columnE {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: lightblue;
+  background-color: linen;
 }
 
 div ul li {
@@ -79,17 +79,7 @@ div ul li {
 }
 
 .well {
-  background-color: rgb(238, 207, 195);
+  background-color: rgb(234, 243, 243);
   align-content: center;
   border: 4px rgb(130, 0, 205);
-}
-
-@media screen and (max-width: 767px) {
-  .table-responsive {
-    width: 100%;
-    margin-bottom: 15px;
-    overflow-y: hidden;
-    -ms-overflow-style: -ms-autohiding-scrollbar;
-    border: 1px solid #ddd;
-  }
 }
