@@ -1,9 +1,14 @@
 h1 {
   size: 35px;
+  font-weight: 700;
 }
 
 h1 span {
   size: 25px;
+}
+
+body {
+  font-family: inherit;
 }
 
 div span {
@@ -46,7 +51,6 @@ div.columnC {
   margin: 5px;
   float: left;
   padding: 5px
-  
 }
 
 div.columnD {
@@ -71,7 +75,7 @@ div.columnE {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: linen;
+  background-color: rgb(123, 171, 196);
 }
 
 div ul li {
@@ -79,7 +83,7 @@ div ul li {
 }
 
 .well {
-  background-color: rgb(234, 243, 243);
   align-content: center;
   border: 4px rgb(130, 0, 205);
 }
+
