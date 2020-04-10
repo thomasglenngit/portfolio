@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This is my first code review assignment through Epicodus. It incorporates elementary proficiency in .html, .css, Bootstrap version 3.3.7 through the creation of a landing page with links to my other class assignments to date. The landing page itself contains a short résumé and bio, as well as links to all my projects published on gh-pages through my gitHub repositiories.}_
+_This is my first code review assignment through Epicodus. It incorporates elementary proficiency in .html, .css, Bootstrap version 3.3.7 through the creation of a landing page with links to my other class assignments to date. The landing page itself contains a short résumé and bio, as well as links to all my projects published on gh-pages through my gitHub repositiories._
 
 ## Setup/Installation Requirements
 
@@ -24,7 +24,7 @@ _This being only my second project using Bootstrap, there are a few entries in m
 
 ## Support and contact details
 
-_If you have any issues, please don't hesitate to contact me:
+If you have any issues, please don't hesitate to contact me:
 
 Thomas Glenn: glenaissance@yahoo.com; 415-216-3317_
 
