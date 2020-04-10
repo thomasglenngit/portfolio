@@ -1,8 +1,8 @@
 # _Portfolio_
 
-#### _{.html file with css and bootstrap3.3.7}, {4.9.2020}_
+#### _.html file with css and bootstrap3.3.7, 4.9.2020_
 
-#### By _**{Thomas Glenn}**_
+#### By _**Thomas Glenn**_
 
 ## Description
 
@@ -16,24 +16,24 @@ _{This is my first code review assignment through Epicodus. It incorporates elem
 * _Enjoy_
 * _Offer feedback_
 
-_{This file requires no additional server, app, code or database to run. 'Just simple .html and .css}_
+_This file requires no additional server, app, code or database to run. 'Just simple .html and .css_
 
 ## Known Bugs
 
-_{This being only my second project using Bootstrap, there are a few entries in my .css stylesheet which do not reflect in the published version of the landing page. I have left them in to show what I was "attempting" to do, without "//" commenting out those particular codes. Obviously, I would like to be more familiar with Bootstrap and anticipate using it more in the future.}_
+_This being only my second project using Bootstrap, there are a few entries in my .css stylesheet which do not reflect in the published version of the landing page. I have left them in to show what I was "attempting" to do, without "//" commenting out those particular codes. Obviously, I would like to be more familiar with Bootstrap and anticipate using it more in the future._
 
 ## Support and contact details
 
-_{If you have any issues, please don't hesitate to contact me:
+_If you have any issues, please don't hesitate to contact me:
 
-Thomas Glenn: glenaissance@yahoo.com; 415-216-3317}_
+Thomas Glenn: glenaissance@yahoo.com; 415-216-3317_
 
 ## Technologies Used
 
-_{.html, .css, Bootstrap}_
+_.html, .css, Bootstrap_
 
 ### License
 
-*{This file is licensed under the MIT license.}*
+*This file is licensed under the MIT license.*
 
 Copyright (c) 2020 **_Thomas Glenn_**
