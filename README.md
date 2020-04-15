@@ -18,6 +18,12 @@ _This is my first code review assignment through Epicodus. It incorporates eleme
 
 _This file requires no additional server, app, code or database to run. 'Just simple .html and .css_
 
+## Links
+
+_To view more of my work, please check out my GitHub profile and browse my repositories at:
+
+ https://github.com/thomasglenngit
+
 ## Known Bugs
 
 _This being only my second project using Bootstrap, there are a few entries in my .css stylesheet which do not reflect in the published version of the landing page. I have left them in to show what I was "attempting" to do, without "//" commenting out those particular codes. Obviously, I would like to be more familiar with Bootstrap and anticipate using it more in the future._
