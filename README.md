@@ -22,7 +22,7 @@ _This file requires no additional server, app, code or database to run. 'Just si
 
 _To view more of my work, please check out my GitHub profile and browse my repositories at:
 
- https://github.com/thomasglenngit
+https://thomasglenngit.github.io/portfolio/
 
 ## Known Bugs
 
